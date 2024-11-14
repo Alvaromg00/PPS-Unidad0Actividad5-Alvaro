@@ -64,7 +64,7 @@ Una vez hecho esto, eliminamos el origen remoto y añadimos el nuevo para que ap
 
 ![](imagenes/11.png)
 
-![](imagenes12.png)
+![](imagenes/12.png)
 
 
 ### Colaborando
